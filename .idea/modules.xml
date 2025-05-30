@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/alura-primeira-aplicacao-java.iml" filepath="$PROJECT_DIR$/alura-primeira-aplicacao-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafio-01/desafio-01.iml" filepath="$PROJECT_DIR$/desafios/desafio-01/desafio-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafio-02/desafio-02.iml" filepath="$PROJECT_DIR$/desafios/desafio-02/desafio-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafios.iml" filepath="$PROJECT_DIR$/desafios/desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto-curso/projeto-curso.iml" filepath="$PROJECT_DIR$/projeto-curso/projeto-curso.iml" />
     </modules>
   </component>
 </project>

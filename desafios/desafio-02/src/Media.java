@@ -1,5 +1,3 @@
-package desafios.dois;
-
 public class Media {
     public static void main(String[] args) {
         double notaUm = 5.5;

@@ -1,5 +1,3 @@
-package desafios.dois;
-
 public class ConversaoDolaresReais {
     public static void main(String[] args) {
         double valorEmDolares = 850.45;

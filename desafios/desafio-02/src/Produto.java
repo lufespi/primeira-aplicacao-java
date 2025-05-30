@@ -1,5 +1,3 @@
-package desafios.dois;
-
 public class Produto {
     public static void main(String[] args) {
         double precoProduto = 10.5;

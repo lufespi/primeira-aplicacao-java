@@ -1,5 +1,3 @@
-package desafios.dois;
-
 public class Palavras {
     public static void main(String[] args) {
         char letra = 'O';

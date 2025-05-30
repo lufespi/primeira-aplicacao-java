@@ -1,5 +1,3 @@
-package desafios.um;
-
 public class Estudos{
 
     public static void main(String[] args) {

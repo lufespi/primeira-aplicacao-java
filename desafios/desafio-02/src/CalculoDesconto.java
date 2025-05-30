@@ -1,5 +1,3 @@
-package desafios.dois;
-
 public class CalculoDesconto {
     public static void main(String[] args) {
         double precoOriginal = 75.45;

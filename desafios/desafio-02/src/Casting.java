@@ -1,5 +1,3 @@
-package desafios.dois;
-
 public class Casting {
     public static void main(String[] args) {
         double numeroDecimal = 8.5;
